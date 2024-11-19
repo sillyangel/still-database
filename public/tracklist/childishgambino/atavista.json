@@ -1,0 +1,96 @@
+[
+    {
+        "name": "Atavista",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "3:01",
+        "explicit": false
+    },
+    {
+        "name": "Algorhythm",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "3:34",
+        "explicit": false
+    },
+    {
+        "name": "Time (feat. Ariana Grande)",
+        "artists": [
+            "Childish Gambino",
+            "Ariana Grande"
+        ],
+        "length": "5:34",
+        "explicit": true
+    },
+    {
+        "name": "Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet)",
+        "artists": [
+            "Childish Gambino",
+            "21 Savage",
+            "Ink",
+            "Kadhja Bonet"
+        ],
+        "length": "6:32",
+        "explicit": true
+    },
+    {
+        "name": "To Be Hunted",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "4:14",
+        "explicit": false
+    },
+    {
+        "name": "Sweet Thang (feat. Summer Walker)",
+        "artists": [
+            "Childish Gambino",
+            "Summer Walker"
+        ],
+        "length": "7:05",
+        "explicit": false
+    },
+    {
+        "name": "Little Foot Big Foot (feat. Young Nudy)",
+        "artists": [
+            "Childish Gambino",
+            "Young Nudy"
+        ],
+        "length": "3:46",
+        "explicit": false
+    },
+    {
+        "name": "Why Go To The Party",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "0:41",
+        "explicit": false
+    },
+    {
+        "name": "Human Sacrifice",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "5:52",
+        "explicit": false
+    },
+    {
+        "name": "The Violence",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "6:03",
+        "explicit": false
+    },
+    {
+        "name": "Final Church",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "3:46",
+        "explicit": false
+    }
+]

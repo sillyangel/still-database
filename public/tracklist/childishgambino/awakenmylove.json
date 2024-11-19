@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Me and Your Mama",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "6:19",
+        "explicit": true
+    },
+    {
+        "name": "Have Some Love",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "3:44",
+        "explicit": false
+    },
+    {
+        "name": "Boogieman",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "3:36",
+        "explicit": true
+    },
+    {
+        "name": "Zombies",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "4:41",
+        "explicit": false
+    },
+    {
+        "name": "Riot",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "2:05",
+        "explicit": false
+    },
+    {
+        "name": "Redbone",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "5:26",
+        "explicit": true
+    },
+    {
+        "name": "California",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "2:45",
+        "explicit": true
+    },
+    {
+        "name": "Terrified",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "4:15",
+        "explicit": true
+    },
+    {
+        "name": "Baby Boy",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "6:22",
+        "explicit": false
+    },
+    {
+        "name": "The Night Me and Your Mama Met",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "3:34",
+        "explicit": false
+    },
+    {
+        "name": "Stand Tall",
+        "artists": [
+            "Childish Gambino"
+        ],
+        "length": "6:10",
+        "explicit": false
+    }
+]

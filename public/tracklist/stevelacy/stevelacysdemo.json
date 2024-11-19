@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Looks",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "1:31",
+        "explicit": false
+    },
+    {
+        "name": "Ryd",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "2:20",
+        "explicit": false
+    },
+    {
+        "name": "Dark Red",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "2:53",
+        "explicit": false
+    },
+    {
+        "name": "Thangs",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "1:50",
+        "explicit": false
+    },
+    {
+        "name": "Haterlovin",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "1:56",
+        "explicit": true
+    },
+    {
+        "name": "Some",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "3:00",
+        "explicit": false
+    }
+]

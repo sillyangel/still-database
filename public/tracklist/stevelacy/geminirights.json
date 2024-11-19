@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Static",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "2:36",
+        "explicit": true
+    },
+    {
+        "name": "Helmet",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "3:21",
+        "explicit": true
+    },
+    {
+        "name": "Mercury",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "4:55",
+        "explicit": true
+    },
+    {
+        "name": "Buttons",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "3:04",
+        "explicit": false
+    },
+    {
+        "name": "Bad Habit",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "3:52",
+        "explicit": true
+    },
+    {
+        "name": "2Gether (Enterlude)",
+        "artists": [
+            "Steve Lacy",
+            "Matt Martians"
+        ],
+        "length": "0:50",
+        "explicit": false
+    },
+    {
+        "name": "Cody Freestyle",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "4:00",
+        "explicit": true
+    },
+    {
+        "name": "Amber",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "2:53",
+        "explicit": false
+    },
+    {
+        "name": "Sunshine (feat. Foushe\u00e9)",
+        "artists": [
+            "Steve Lacy",
+            "Foushe\u00e9"
+        ],
+        "length": "4:53",
+        "explicit": false
+    },
+    {
+        "name": "Give You the World",
+        "artists": [
+            "Steve Lacy"
+        ],
+        "length": "4:33",
+        "explicit": true
+    }
+]
