@@ -3,8 +3,6 @@ import json
 import re
 from config import token
 
-# 
-
 # Set headers with authorization token
 headers = {
     "Authorization": f"Bearer {token}"
@@ -51,6 +49,7 @@ def fetch_and_save_album(album_id):
                 "artists": [artist["name"] for artist in track["artists"]],
                 "length": convert_duration(track["duration_ms"]),
                 "explicit": track["explicit"],
+                "disc_number": track["disc_number"],  # Include disc number
             }
             track_list.append(track_info)
 

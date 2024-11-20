@@ -1,0 +1,115 @@
+[
+    {
+        "name": "Heaven or Hell",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:03",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "Euphoria (feat. Travis Scott & Kaash Paige)",
+        "artists": [
+            "Don Toliver",
+            "Kaash Paige",
+            "Travis Scott"
+        ],
+        "length": "3:36",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "Cardigan",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:38",
+        "explicit": false,
+        "disc_number": 1
+    },
+    {
+        "name": "After Party",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:47",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "Wasted",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:51",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "Can't Feel My Legs",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:00",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "Candy",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:56",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "Company",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:24",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "Had Enough (feat. Quavo & Offset)",
+        "artists": [
+            "Don Toliver",
+            "Offset",
+            "Quavo"
+        ],
+        "length": "2:37",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "Spaceship (feat. Sheck Wes)",
+        "artists": [
+            "Don Toliver",
+            "Sheck Wes"
+        ],
+        "length": "3:05",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "No Photos",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:55",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "No Idea",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:34",
+        "explicit": false,
+        "disc_number": 1
+    }
+]

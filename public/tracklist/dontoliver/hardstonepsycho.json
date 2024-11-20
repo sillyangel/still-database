@@ -1,0 +1,192 @@
+[
+    {
+        "name": "KRYPTONITE",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:02",
+        "explicit": false,
+        "disc_number": 1
+    },
+    {
+        "name": "TORE UP",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:06",
+        "explicit": false,
+        "disc_number": 1
+    },
+    {
+        "name": "BROTHER STONE (FEAT. KODAK BLACK)",
+        "artists": [
+            "Don Toliver",
+            "Kodak Black"
+        ],
+        "length": "3:22",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)",
+        "artists": [
+            "Don Toliver",
+            "Charlie Wilson",
+            "Cash Cobain"
+        ],
+        "length": "2:41",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "BANDIT",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:27",
+        "explicit": true,
+        "disc_number": 2
+    },
+    {
+        "name": "GLOCK",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:48",
+        "explicit": true,
+        "disc_number": 2
+    },
+    {
+        "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
+        "artists": [
+            "Don Toliver",
+            "Travis Scott"
+        ],
+        "length": "3:38",
+        "explicit": true,
+        "disc_number": 2
+    },
+    {
+        "name": "4X4",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:22",
+        "explicit": true,
+        "disc_number": 2
+    },
+    {
+        "name": "PURPLE RAIN (FEAT. FUTURE & METRO BOOMIN)",
+        "artists": [
+            "Don Toliver",
+            "Future",
+            "Metro Boomin"
+        ],
+        "length": "3:27",
+        "explicit": true,
+        "disc_number": 3
+    },
+    {
+        "name": "NEW DROP",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:37",
+        "explicit": true,
+        "disc_number": 3
+    },
+    {
+        "name": "BACKSTREETS (FEAT. TEEZO TOUCHDOWN)",
+        "artists": [
+            "Don Toliver",
+            "Teezo Touchdown"
+        ],
+        "length": "3:17",
+        "explicit": true,
+        "disc_number": 3
+    },
+    {
+        "name": "DEEP IN THE WATER",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:50",
+        "explicit": true,
+        "disc_number": 3
+    },
+    {
+        "name": "INSIDE (FEAT. TRAVIS SCOTT)",
+        "artists": [
+            "Don Toliver",
+            "Travis Scott"
+        ],
+        "length": "4:10",
+        "explicit": true,
+        "disc_number": 4
+    },
+    {
+        "name": "5 TO 10",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:13",
+        "explicit": true,
+        "disc_number": 4
+    },
+    {
+        "name": "LAST LAUGH",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "4:01",
+        "explicit": true,
+        "disc_number": 4
+    },
+    {
+        "name": "HARDSTONE NATIONAL ANTHEM",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:41",
+        "explicit": true,
+        "disc_number": 4
+    },
+    {
+        "name": "ROCKSTAR GIRL",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "2:57",
+        "explicit": true,
+        "disc_number": 5
+    },
+    {
+        "name": "LOVE IS A DRUG",
+        "artists": [
+            "Don Toliver"
+        ],
+        "length": "3:08",
+        "explicit": true,
+        "disc_number": 5
+    },
+    {
+        "name": "DONNY DARKO (FEAT. LIL UZI VERT)",
+        "artists": [
+            "Don Toliver",
+            "Lil Uzi Vert"
+        ],
+        "length": "1:56",
+        "explicit": true,
+        "disc_number": 5
+    },
+    {
+        "name": "GEEKED UP (FEAT. YEAT)",
+        "artists": [
+            "Don Toliver",
+            "Yeat"
+        ],
+        "length": "2:37",
+        "explicit": true,
+        "disc_number": 5
+    }
+]
