@@ -1,0 +1,192 @@
+[
+    {
+        "name": "HYAENA",
+        "artists": [
+            "Travis Scott"
+        ],
+        "length": "3:42",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "THANK GOD",
+        "artists": [
+            "Travis Scott"
+        ],
+        "length": "3:04",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "MODERN JAM (feat. Teezo Touchdown)",
+        "artists": [
+            "Travis Scott",
+            "Teezo Touchdown"
+        ],
+        "length": "4:15",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "MY EYES",
+        "artists": [
+            "Travis Scott"
+        ],
+        "length": "4:11",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "GOD'S COUNTRY",
+        "artists": [
+            "Travis Scott"
+        ],
+        "length": "2:07",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "SIRENS",
+        "artists": [
+            "Travis Scott"
+        ],
+        "length": "3:24",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "MELTDOWN (feat. Drake)",
+        "artists": [
+            "Travis Scott",
+            "Drake"
+        ],
+        "length": "4:06",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "FE!N (feat. Playboi Carti)",
+        "artists": [
+            "Travis Scott",
+            "Playboi Carti"
+        ],
+        "length": "3:11",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "DELRESTO (ECHOES) (feat. Beyoncé)",
+        "artists": [
+            "Travis Scott",
+            "Beyoncé"
+        ],
+        "length": "4:34",
+        "explicit": false,
+        "disc_number": 1
+    },
+    {
+        "name": "I KNOW ?",
+        "artists": [
+            "Travis Scott"
+        ],
+        "length": "3:31",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
+        "artists": [
+            "Travis Scott",
+            "Rob49",
+            "21 Savage"
+        ],
+        "length": "3:43",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee)",
+        "artists": [
+            "Travis Scott",
+            "The Weeknd",
+            "Swae Lee"
+        ],
+        "length": "4:18",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "PARASAIL (feat. Yung Lean & Dave Chappelle)",
+        "artists": [
+            "Travis Scott",
+            "Yung Lean",
+            "Dave Chappelle"
+        ],
+        "length": "2:34",
+        "explicit": false,
+        "disc_number": 1
+    },
+    {
+        "name": "SKITZO (feat. Young Thug)",
+        "artists": [
+            "Travis Scott",
+            "Young Thug"
+        ],
+        "length": "6:06",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "LOST FOREVER (feat. Westside Gunn)",
+        "artists": [
+            "Travis Scott",
+            "Westside Gunn"
+        ],
+        "length": "2:43",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "LOOOVE (feat. Kid Cudi)",
+        "artists": [
+            "Travis Scott",
+            "Kid Cudi"
+        ],
+        "length": "3:46",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "K-POP (feat. Bad Bunny & The Weeknd)",
+        "artists": [
+            "Travis Scott",
+            "Bad Bunny",
+            "The Weeknd"
+        ],
+        "length": "3:05",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "TELEKINESIS (feat. SZA & Future)",
+        "artists": [
+            "Travis Scott",
+            "SZA",
+            "Future"
+        ],
+        "length": "5:53",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "TIL FURTHER NOTICE (feat. James Blake & 21 Savage)",
+        "artists": [
+            "Travis Scott",
+            "James Blake",
+            "21 Savage"
+        ],
+        "length": "5:14",
+        "explicit": true,
+        "disc_number": 1
+    }
+]

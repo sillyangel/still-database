@@ -1,0 +1,76 @@
+[
+    {
+        "name": "HIGHEST IN THE ROOM (feat. ROSALÊA & Lil Baby) - REMIX",
+        "artists": [
+            "Travis Scott",
+            "ROSALÊ",
+            "Lil Baby"
+        ],
+        "length": "4:04",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "JACKBOYS",
+        "artists": [
+            "JACKBOYS"
+        ],
+        "length": "0:46",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "GANG GANG",
+        "artists": [
+            "JACKBOYS",
+            "Sheck Wes"
+        ],
+        "length": "4:04",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "HAD ENOUGH (feat. Quavo & Offset)",
+        "artists": [
+            "Don Toliver",
+            "Quavo",
+            "Offset"
+        ],
+        "length": "2:37",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "OUT WEST (feat. Young Thug)",
+        "artists": [
+            "JACKBOYS",
+            "Travis Scott",
+            "Young Thug"
+        ],
+        "length": "2:37",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "WHAT TO DO? (feat. Don Toliver)",
+        "artists": [
+            "JACKBOYS",
+            "Travis Scott",
+            "Don Toliver"
+        ],
+        "length": "4:10",
+        "explicit": true,
+        "disc_number": 1
+    },
+    {
+        "name": "GATTI",
+        "artists": [
+            "JACKBOYS",
+            "Pop Smoke",
+            "Travis Scott"
+        ],
+        "length": "3:01",
+        "explicit": true,
+        "disc_number": 1
+    }
+]
