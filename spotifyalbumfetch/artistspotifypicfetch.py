@@ -1,8 +1,7 @@
 import requests
 import json
 import re
-
-token = 'BQAcX7bZr8qfz8vPZmzfd1E49Vl40YEt5IwxyxG5vMtJlsWPTdatq1aaMhIF-sGKn7fGKLaAAui9zHj_lxGZgsXp9B9HDvYLqu3M5h049EWgqfyBoIsOgQvzr6G7SGc1oz3norKCAwY6kvnzVrkK1EymEJ3E9358FzZA2ItFJs95rED1dUoo0jMEd6Yn9vxPSme0Ba37qsTiqGsWGoRhQFOTaFWFREacl3-4yoSdjKQbjzcD_GqiFCtZqFRxWBK-_GpSIe0a84Gn';
+from config import token  # Import the token from config.py
 
 # Set headers with authorization token
 headers = {

@@ -1,8 +1,7 @@
 import requests
 import json
 import re
-
-token = 'BQDH7mt-8pErAwJ4s1O-ItRWLxbF3KvyU4EHX8iRqbHgyxHwzn4iOV40rLjJIn624JTLBpubTmZUat7_1Zdazua9gkhsxSNn5obKz21f2GUVzwPCk7Irq68mYjTjs0j1WvKM-QbBtx4Zn5lk5ejL6rdohIQ0MhsPHRn5d78oq5UH-AExYL2N6fNvuPAs4cDlqNBuKJRWOn_OgFrBfjT6CIyk8-wvoe5W0zSBmKLxiLcO_0oqb_p5UAHAzsMHmly6aHlwELD9qyjo';
+from config import token
 
 # 
 
